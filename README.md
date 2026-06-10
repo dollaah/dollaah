@@ -3,6 +3,7 @@
 - 🌱 I’m have a degree in ...information technology 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...app number 0796629795
+- you could use my email too ... dicksonmuchira67@gmail.com
 
 <!---
 dollaah/dollaah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
